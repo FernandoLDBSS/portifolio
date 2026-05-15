@@ -136,7 +136,8 @@ footer {
 /* Media Query - Deixar a página de forma responsiva */
 @media (max-width: 1080px) {
     body{
-        background-color: purple;
+        background-color: #c8412d;
+        color: #e1ebed;
     }
 
     .cabecalho {
